@@ -1,5 +1,5 @@
-# Project-AW
-Project : Advance Web Application
+# Find Friend SUT
+Project 523419 - Advanced Web Application Development
 
 # Setup Project
 ## Frontend
