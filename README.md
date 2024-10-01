@@ -1,5 +1,5 @@
 # Project-AW
-Final Project : Advance Web Application
+Project : Advance Web Application
 
 # Setup Project
 ## Frontend
