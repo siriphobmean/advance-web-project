@@ -1,7 +1,5 @@
 # Find Friend SUT
 Project 523419 - Advanced Web Application Development
-
-# Setup Project
 ## Frontend
 ```
 ng new --no-standalone frontend
